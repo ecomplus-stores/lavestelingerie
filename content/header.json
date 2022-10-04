@@ -16,12 +16,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/promocao?PROMOÇÃO",
-      "/lingeries?Lingeries",
-      "/colecao-capsula-do-amor?Coleção Cápsula do Amor",
-      "/lingeries-plus-size?Lingeries Plus Size"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": false
   },
