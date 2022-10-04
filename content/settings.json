@@ -1,25 +1,25 @@
 {
-  "store_id": 43324,
-  "name": "lavestelingerie",
   "domain": "lavestelingerie.netlify.app",
-  "short_name": "lavestelingerie",
-  "description": "lavestelingerie",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#020202",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg",
+  "name": "La Veste Lingerie",
+  "short_name": "lavestelingerie",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "Outfit",
+  "favicon": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg",
+  "icons_font": "line-awesome",
   "country_code": "BR",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#ffb9dc",
+  "icon": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg",
+  "store_id": 43324,
+  "description": "lavestelingerie",
+  "large_icon": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg"
 }
