@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Oii perfeita 💗 Utilize o cupom BEMVINDA e aproveite o FRETE FIXO!",
+    "link": "/promotion",
+    "background": "#ffb9dc",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
@@ -23,5 +25,7 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
