@@ -8,19 +8,17 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Quem somos",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/conjuntos?Conjuntos"
+    ],
     "random": 6,
     "full_width": false
   },
