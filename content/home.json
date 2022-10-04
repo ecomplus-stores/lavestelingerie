@@ -34,9 +34,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "6251b3bd2e405e04ff32da82:categories:PROMOÇÃO:/promocao",
       "sort": "offers",
-      "title": "",
+      "title": "Outlet da La Veste",
       "headless": false,
       "limit": 12,
       "page": 1
