@@ -1,7 +1,7 @@
 {
   "domain": "lavestelingerie.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#020202",
+  "primary_color": "#080808",
   "theme": {
     "bootswatch": "cerulean",
     "custom": "clean-white"
