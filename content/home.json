@@ -41,14 +41,15 @@
       "title": "Conjuntos"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "6251b3bd2e405e04ff32da82:categories:PROMOÇÃO:/promocao",
-      "sort": "offers",
+      "page": 1,
       "title": "Outlet da La Veste",
+      "shuffle": true,
       "headless": false,
+      "type": "collection-shelf",
+      "link": "https://lavestelingerie.netlify.app/promocao",
       "limit": 12,
-      "page": 1
+      "collection_id": "6251b3bd2e405e04ff32da82:categories:PROMOÇÃO:/promocao",
+      "sort": "offers"
     },
     {
       "page": 1,
