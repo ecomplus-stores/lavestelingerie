@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#ffc3df",
   "theme": {
-    "bootswatch": "litera",
+    "bootswatch": "_",
     "custom": "clean-white"
   },
   "bg_color": "#d8ffec",
@@ -13,9 +13,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Outfit",
+  "font_family": "Montserrat",
   "favicon": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg",
-  "icons_font": "line-awesome",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#ffc3df",
   "icon": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg",
