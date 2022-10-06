@@ -1,7 +1,7 @@
 {
   "domain": "lavestelingerie.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffc3df",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
@@ -13,11 +13,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Montserrat",
+  "font_family": "Quicksand",
   "favicon": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg",
-  "icons_font": "_",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "secondary_color": "#000000",
+  "secondary_color": "#ffc3df",
   "icon": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg",
   "store_id": 43324,
   "description": "lavestelingerie",
