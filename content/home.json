@@ -53,6 +53,11 @@
       "sort": "views"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/voce-merece-essa-nova-lingerie-4-.png",
+      "mobile_img": "/img/uploads/voce-merece-essa-nova-lingerie-4-.png"
+    },
+    {
       "page": 1,
       "title": "Outlet da La Veste",
       "shuffle": true,
