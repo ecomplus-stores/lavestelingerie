@@ -1,7 +1,7 @@
 {
   "domain": "lavestelingerie.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#080808",
+  "primary_color": "#ffc3df",
   "theme": {
     "bootswatch": "cerulean",
     "custom": "clean-white"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg",
   "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#ffb9dc",
+  "secondary_color": "#111111",
   "icon": "/img/uploads/whatsapp-image-2022-04-08-at-23.55.50.jpeg",
   "store_id": 43324,
   "description": "lavestelingerie",
