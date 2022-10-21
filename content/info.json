@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo o Brasil"
+    "text": "Enviamos para todo o Brasil",
+    "title": "Frete Fixo"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros"
+    "text": "3x sem juros",
+    "title": "Parcelamos em até 12x"
   },
   "exchange": {
     "show": true,
