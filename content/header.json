@@ -1,8 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "Oii perfeita! Aproveite o FRETE GRÁTIS em compras acima de R$350,00 ❤",
+    "text": "Oii perfeita! Aproveite o FRETE GRÁTIS em compras acima de R$350,00 ",
     "link": "/promotion",
-    "background": "#ffc7da",
+    "background": "#ffd5e5",
     "color": "#000000"
   },
   "contacts_stripe": {
