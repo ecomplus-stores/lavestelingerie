@@ -11,7 +11,8 @@
   },
   "exchange": {
     "show": true,
-    "text": "Pagamentos via PIX ganhe 5% de desconto"
+    "text": "Pagamentos via PIX",
+    "title": " 𝟱% 𝗱𝗲 𝗱𝗲𝘀𝗰𝗼𝗻𝘁𝗼"
   },
   "promo": {
     "show": false,
