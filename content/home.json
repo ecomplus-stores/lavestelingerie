@@ -25,6 +25,12 @@
           "img": "/img/uploads/capsula-do-amor.png",
           "mobile_img": "/img/uploads/menor.png",
           "link": "https://lavestelingerie.netlify.app/colecao-capsula-do-amor"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/super-sale-20-.png",
+          "mobile_img": "/img/uploads/super-sale-20-.png"
         }
       ]
     },
@@ -83,6 +89,11 @@
       "type": "page-title",
       "title": "La Veste Lingerie",
       "description": "Nosso principal propósito através das nossas peças é levar até você autoestima, leveza e liberdade para exaltar a mulher maravilhosa que é. A lingerie tem um papel essencial na sua vida, aproveita!"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
