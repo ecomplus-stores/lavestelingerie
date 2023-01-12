@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/super-sale-20-.png",
+          "mobile_img": "/img/uploads/super-sale-20-.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/super-sale-16-.png",
           "mobile_img": "/img/uploads/frete-fixo-13-.png"
         },
@@ -18,19 +24,6 @@
           "end": "",
           "img": "/img/uploads/super-sale-14-.png",
           "mobile_img": "/img/uploads/frete-fixo-12-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/capsula-do-amor.png",
-          "mobile_img": "/img/uploads/menor.png",
-          "link": "https://lavestelingerie.netlify.app/colecao-capsula-do-amor"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/super-sale-20-.png",
-          "mobile_img": "/img/uploads/super-sale-20-.png"
         }
       ]
     },
