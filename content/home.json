@@ -66,7 +66,7 @@
       "link": "https://lavestelingerie.netlify.app/promocao",
       "limit": 12,
       "collection_id": "6251b3bd2e405e04ff32da82:categories:PROMOÇÃO:/promocao",
-      "sort": "offers"
+      "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
