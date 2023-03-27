@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.829fe2c59f2568410f9fa3c745596fff.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.cb600aecb20e01e4fee2ef365d77318a.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.7678a74ced6d644499722fb685628c4d.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.b4372db456abf3adf438d9488bef2827.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.62968040b6f4487964019784a61182a0.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "La Veste Lingerie",
+  "short_name": "lavestelingerie",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Você mais poderosa por meio das nossas peças.",
+  "background_color": "#d8ffec",
+  "theme_color": "#000000"
+}
